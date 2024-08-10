@@ -1,22 +1,22 @@
-Welcome to Lumache's documentation!
+Net88 - net88max.com - nhà cái hàng đầu tại châu Á trong năm 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Net88 <https://net88max.com/>`_, nhà cái hàng đầu tại châu Á trong năm 2024, nổi bật với sự đầu tư kỹ lưỡng vào sản phẩm và dịch vụ cá cược trực tuyến. Ngay từ khi ra mắt, Net88 đã thu hút người chơi bằng giao diện đẹp mắt và dễ sử dụng.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Net88 cung cấp một loạt sản phẩm đa dạng bao gồm cá cược thể thao, esport, casino trực tuyến, game bài, nổ hũ, bắn cá, game 3D, và xổ số. Đặc biệt, từ tháng 6/2024, Net88 đã trở thành nhà tài trợ áo đấu cho CLB bóng đá Ngoại Hạng Anh – Crystal Palace, đánh dấu một cột mốc quan trọng và khẳng định vị thế của mình trong ngành cá cược.
 
-.. note::
+Net88 cũng mang đến các khuyến mãi hấp dẫn trong năm 2024, từ ưu đãi dành cho tân thủ đến hoàn trả cao và các sự kiện phát quà vào các dịp lễ lớn như Tết Âm Lịch, Giáng Sinh, World Cup, Euro, và Asian Cup.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 44/21/2D Phan Xích Long, Phường 16, Quận 11, Hồ Chí Minh, Việt Nam
 
-.. toctree::
+Phone: 0878649310
 
-   usage
-   api
+Email: net88@net88max.com
+
+Website: https://net88max.com/
+
+Author: https://net88max.com/btv-net-liem/
+
+#net88 #net_88 #net88maxcom #net88_max #net88_max_com #nhacainet88 #net88casino
